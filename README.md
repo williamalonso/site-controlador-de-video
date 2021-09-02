@@ -3,7 +3,7 @@
     </h1>
 
 <div align="center">
-  ![](img/home.jpg)
+  <img src="encurtador.com.br/qABOY" alt"controlador de video" title="controlador de video" />
   
 
 ---

@@ -3,7 +3,7 @@
     </h1>
 
 <div align="center">
-  <img src="encurtador.com.br/qABOY" alt"controlador de video" title="controlador de video" />
+  <img src="https://i.ytimg.com/vi/oUjWu5ugjD4/maxresdefault.jpg" alt"controlador de video" title="controlador de video" />
   
 
 ---

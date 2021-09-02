@@ -41,7 +41,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 🙅 Instalações e usos
 
-Clone ou faça o downlod desse repositório:
+Para acessar o site [clique aqui](https://controlador-de-video.vercel.app/)
+
+Caso queira, clone ou faça o downlod desse repositório:
 
 ```
 # Clone o repositório

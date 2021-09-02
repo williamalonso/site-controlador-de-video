@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1"> <!-- padronizar o viewport para todos os dispositivos -->
+	<link rel="stylesheet" type="text/css" href="style.css">
+	<title>Controlador de Vídeo</title>
+</head>
+<body>
+
+	<div class=video-container>
+		<!-- HTML5 video tag -->
+		 <video id='video' width="320" height="240" class="video">
+		 	<source src="https://www.w3schools.com/tags/movie.mp4" type="video/mp4">
+		 	Your browser does not support the video tag.
+		</video>
+
+
+		<!-- Control Buttons -->
+		<div class="buttons">
+			<button onclick="playPause()">Play/Pause</button>
+			<button onclick="makeBig()">Big</button>
+			<button onclick="makeSmall()">Small</button>
+			<button onclick="makeNormal()">Normal</button>
+			<button onclick="voltar()"> &#60;&#60; 10 </button>
+			<button onclick="advance()"> &#62;&#62; 10 </button>
+			<button onclick="decrease()"> - vel </button>
+			<button onclick="increase()"> + vel </button>
+		</div>
+	</div>
+	<!-- Carregamento do JS -->
+	<script type="text/javascript" src="index.js"></script>
+
+</body>
+</html>

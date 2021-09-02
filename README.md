@@ -3,7 +3,7 @@
     </h1>
 
 <div align="center">
-  <img src="https://i.ytimg.com/vi/oUjWu5ugjD4/maxresdefault.jpg" alt"controlador de video" title="controlador de video" />
+  <img src="https://github.com/williamalonso/controlador-de-video/blob/master/img/home.jpg" alt"controlador de video" title="controlador de video" />
   
 
 ---
